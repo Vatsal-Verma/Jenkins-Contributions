@@ -4,7 +4,7 @@ This repository shows my contributions to jenkins
 ### In Stories.jenkins.io
 
 | S.no | PR | link | status |
-| --- | --- | --- | mergerd |
+| --- | --- | --- | --- |
 |1| fix errors in the `to-add-stability-to-the-overall-software-delivery-process` page | [#222](https://github.com/jenkins-infra/stories/pull/222) | mergerd |
 |2| fix errors in the `to-faster-product-release` page| [#228](https://github.com/jenkins-infra/stories/pull/228) | mergerd |
 |3| fix errors in the `to-automate-the-lives-of-all-programmers-who-want-a-quality-product` page| [#230](https://github.com/jenkins-infra/stories/pull/230) | mergerd |
