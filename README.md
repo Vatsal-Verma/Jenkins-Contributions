@@ -1,2 +1,2 @@
 # Jenkins-Contributions
-This repository shows my contributions towards jenkins
+This repository shows my contributions to jenkins
