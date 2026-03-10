@@ -55,3 +55,11 @@ This repository shows my contributions to jenkins
 | --- | --- | --- | --- |
 | 45 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
 | 46 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
+
+### In Jenkins-io-components
+| S.no | PR | link | status |
+| --- | --- | --- | --- |
+| 47 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
+| 48 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | approved |
+
+
