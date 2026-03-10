@@ -49,3 +49,9 @@ This repository shows my contributions to jenkins
 |42| fix: found error 423 / 418 / 425 in stories.jenkins.io | [#332](https://github.com/jenkins-infra/stories/pull/332) | mergerd |
 |43| feat: add lazy loading to the image based elements | [#336](https://github.com/jenkins-infra/stories/pull/336) | mergerd |
 |44| fix: remove PRESERVE_WEBPACK_CACHE flag from config | [#341](https://github.com/jenkins-infra/stories/pull/341) | mergerd |
+
+### In Jenkins.io
+| S.no | PR | link | status |
+| --- | --- | --- | --- |
+| 45 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
+| 46 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
