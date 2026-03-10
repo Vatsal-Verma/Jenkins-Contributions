@@ -63,3 +63,6 @@ This repository shows my contributions to jenkins
 | 48 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | approved |
 
 
+```
+This file shows only those PRs that are merged or approved. 
+```
