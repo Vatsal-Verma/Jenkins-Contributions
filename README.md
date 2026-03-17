@@ -49,20 +49,25 @@ This repository shows my contributions to jenkins
 |42| fix: found error 423 / 418 / 425 in stories.jenkins.io | [#332](https://github.com/jenkins-infra/stories/pull/332) | mergerd |
 |43| feat: add lazy loading to the image based elements | [#336](https://github.com/jenkins-infra/stories/pull/336) | mergerd |
 |44| fix: remove PRESERVE_WEBPACK_CACHE flag from config | [#341](https://github.com/jenkins-infra/stories/pull/341) | mergerd |
+|45| fix: resolve css order conflict | [#369](https://github.com/jenkins-infra/stories/pull/349) | requested review |
+|46| fix: handle security vulnerabilities reported by npm audit | [#369](https://github.com/jenkins-infra/stories/pull/369) | requested review |
 
 ### In Jenkins.io
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 45 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
-| 46 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
+| 47 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
+| 48 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
 
 ### In Jenkins-io-components
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 47 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
-| 48 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | approved |
+| 49 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
+| 50 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | approved |
+
+### In stats.jenkins.io
+| S.no | PR | link | status |
+| --- | --- | --- | --- |
+| 51 | Fix security vulnerabilities reported by npm audit | [#662](https://github.com/jenkins-infra/stats.jenkins.io/pull/662) | merged |
+| 52 | feat: Put in place tests to ensure current links are not broken | [#660](https://github.com/jenkins-infra/stats.jenkins.io/pull/660) | requested review |
 
 
-```
-This file shows only those PRs that are merged or approved. 
-```
