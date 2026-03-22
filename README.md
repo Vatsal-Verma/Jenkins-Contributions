@@ -24,13 +24,13 @@ This repository shows my contributions to jenkins
 |17| fix errors in the `to-consistency` page| [#257](https://github.com/jenkins-infra/stories/pull/257) | merged |
 |18| fix errors in the `to-build-and-deliver-software` page| [#258](https://github.com/jenkins-infra/stories/pull/258) | merged |
 |19| fix errors in the `to-do-things-quickly-simply-and-in-a-powerful-way` page| [#259](https://github.com/jenkins-infra/stories/pull/259) | merged |
-|20| fix errors in the `to-robot-em-all` page| [#256](https://github.com/jenkins-infra/stories/pull/256) | merged |
+|20| feat: add welcome bot for first time contributor of `jenkins-infra/stories` | [#290](https://github.com/jenkins-infra/stories/pull/290) | merged |
 |21| fix errors in the `to-scale-from-the-ground-up` page| [#261](https://github.com/jenkins-infra/stories/pull/261) | merged |
 |22| fix errors in the `to-manage-anything-and-everything-through-pipelines` page| [#262](https://github.com/jenkins-infra/stories/pull/262) | merged |
 |23| fix errors in the `to-automate-noc-operations` page| [#263](https://github.com/jenkins-infra/stories/pull/263) | merged |
 |24| fix errors in the `to-simplify-the-cloud-onboarding-process` page| [#264](https://github.com/jenkins-infra/stories/pull/264) | merged |
 |25| fix errors in the `to-get-stuff-done` page| [#265](https://github.com/jenkins-infra/stories/pull/265) | merged |
-|26| fix errors in the `to-facilitate-day-to-day-work` page| [#266](https://github.com/jenkins-infra/stories/pull/256) | merged |
+|26| fix errors in the `to-facilitate-day-to-day-work` page| [#266](https://github.com/jenkins-infra/stories/pull/266) | merged |
 |27| fix errors in the `to-do-ci-cd-right` page| [#267](https://github.com/jenkins-infra/stories/pull/267) | merged |
 |28| Bug: Handled Unecessary warnings | [#295](https://github.com/jenkins-infra/stories/pull/295) | merged |
 |29| fix: change ESLint output format from JSON to XML | [#304](https://github.com/jenkins-infra/stories/pull/304) | merged |
