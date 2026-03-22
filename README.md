@@ -49,7 +49,7 @@ This repository shows my contributions to jenkins
 |42| fix: found error 423 / 418 / 425 in stories.jenkins.io | [#332](https://github.com/jenkins-infra/stories/pull/332) | merged |
 |43| feat: add lazy loading to the image based elements | [#336](https://github.com/jenkins-infra/stories/pull/336) | merged |
 |44| fix: remove PRESERVE_WEBPACK_CACHE flag from config | [#341](https://github.com/jenkins-infra/stories/pull/341) | merged |
-|45| fix: resolve css order conflict | [#369](https://github.com/jenkins-infra/stories/pull/349) | requested review |
+|45| fix: resolve css order conflict | [#369](https://github.com/jenkins-infra/stories/pull/349) | merged |
 |46| fix: handle security vulnerabilities reported by npm audit | [#369](https://github.com/jenkins-infra/stories/pull/369) | requested review |
 
 ### In Jenkins.io
