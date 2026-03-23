@@ -50,7 +50,7 @@ This repository shows my contributions to jenkins
 |43| feat: add lazy loading to the image based elements | [#336](https://github.com/jenkins-infra/stories/pull/336) | merged |
 |44| fix: remove PRESERVE_WEBPACK_CACHE flag from config | [#341](https://github.com/jenkins-infra/stories/pull/341) | merged |
 |45| fix: resolve css order conflict | [#369](https://github.com/jenkins-infra/stories/pull/349) | merged |
-|46| fix: handle security vulnerabilities reported by npm audit | [#369](https://github.com/jenkins-infra/stories/pull/369) | requested review |
+|46| fix: handle security vulnerabilities reported by npm audit | [#369](https://github.com/jenkins-infra/stories/pull/369) | merged |
 
 ### In Jenkins.io
 | S.no | PR | link | status |
