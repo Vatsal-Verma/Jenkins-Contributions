@@ -70,4 +70,8 @@ This repository shows my contributions to jenkins
 | 51 | Fix security vulnerabilities reported by npm audit | [#662](https://github.com/jenkins-infra/stats.jenkins.io/pull/662) | merged |
 | 52 | feat: Put in place tests to ensure current links are not broken | [#660](https://github.com/jenkins-infra/stats.jenkins.io/pull/660) | requested review |
 
+### In contributors.jenkins.io
+| S.no | PR | link | status |
+| --- | --- | --- | --- |
+| 53 | chore: separate lint check and lint fix scripts | [#562](https://github.com/jenkins-infra/contributor-spotlight/pull/562) | merged |
 
