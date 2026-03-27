@@ -62,7 +62,7 @@ This repository shows my contributions to jenkins
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
 | 49 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
-| 50 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | approved |
+| 50 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | merged |
 
 ### In stats.jenkins.io
 | S.no | PR | link | status |
