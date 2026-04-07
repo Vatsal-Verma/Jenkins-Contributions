@@ -86,7 +86,7 @@ This repository shows my contributions to jenkins
 ### In gatsby-plugin-jenkins-layout
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 61 | Remove unused variables from Layout component | [#93](https://github.com/jenkins-infra/gatsby-plugin-jenkins-layout/pull/93) | approved |
+| 61 | Remove unused variables from Layout component | [#93](https://github.com/jenkins-infra/gatsby-plugin-jenkins-layout/pull/93) | merged |
 
 
 
