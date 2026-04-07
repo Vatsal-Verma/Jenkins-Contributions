@@ -54,31 +54,40 @@ This repository shows my contributions to jenkins
 |47| feat(ci): added blc checker | [#378](https://github.com/jenkins-infra/stories/pull/378) | requested review |
 |48| feat: added read-time-estimation using read-time jio component | [#388](https://github.com/jenkins-infra/stories/pull/388) | merged |
 |49| chore: setup husky and lint-staged for pre-commit linting | [#389](https://github.com/jenkins-infra/stories/pull/389) | requested review |
+|50| fix: fix page text contrast | [#392](https://github.com/jenkins-infra/stories/pull/392) | request review | 
 
 
 ### In Jenkins.io
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 50 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
-| 51 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
-| 52 | feat: Add reading time estimate to blog post layout | [#8990](https://github.com/jenkins-infra/jenkins.io/pull/8990) | merged |
-| 53 | update broken link on `gsoc/contributors/` page | [#9026](https://github.com/jenkins-infra/jenkins.io/pull/9026) | merged |
+| 51 | Adding a New logo to Artworks (Jenkins India) | [#8365](https://github.com/jenkins-infra/jenkins.io/pull/8365) | merged |
+| 52 | fix: remove broken Link for `Org Admin runbook` for the Jenkins project | [#8830](https://github.com/jenkins-infra/jenkins.io/pull/8830) | merged |
+| 53 | feat: Add reading time estimate to blog post layout | [#8990](https://github.com/jenkins-infra/jenkins.io/pull/8990) | merged |
+| 54 | update broken link on `gsoc/contributors/` page | [#9026](https://github.com/jenkins-infra/jenkins.io/pull/9026) | merged |
 
 ### In Jenkins-io-components
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 54 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
-| 55 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | merged |
+| 55 | fix: update browserslist-db | [#179](https://github.com/jenkins-infra/jenkins-io-components/pull/179) | merged |
+| 56 | feat: add read-time estimation as jio component | [#177](https://github.com/jenkins-infra/jenkins-io-components/pull/177) | merged |
 
 ### In stats.jenkins.io
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 56 | Fix security vulnerabilities reported by npm audit | [#662](https://github.com/jenkins-infra/stats.jenkins.io/pull/662) | merged |
-| 57 | feat: Put in place tests to ensure current links are not broken | [#660](https://github.com/jenkins-infra/stats.jenkins.io/pull/660) | draft |
-| 58 | feat: added 404 error page | [#668](https://github.com/jenkins-infra/stats.jenkins.io/pull/668) | requested review |
+| 57 | Fix security vulnerabilities reported by npm audit | [#662](https://github.com/jenkins-infra/stats.jenkins.io/pull/662) | merged |
+| 58 | feat: Put in place tests to ensure current links are not broken | [#660](https://github.com/jenkins-infra/stats.jenkins.io/pull/660) | draft |
+| 59 | feat: added 404 error page | [#668](https://github.com/jenkins-infra/stats.jenkins.io/pull/668) | requested review |
 
 ### In contributors.jenkins.io
 | S.no | PR | link | status |
 | --- | --- | --- | --- |
-| 59 | chore: separate lint check and lint fix scripts | [#562](https://github.com/jenkins-infra/contributor-spotlight/pull/562) | merged |
+| 60 | chore: separate lint check and lint fix scripts | [#562](https://github.com/jenkins-infra/contributor-spotlight/pull/562) | merged |
+
+### In gatsby-plugin-jenkins-layout
+| S.no | PR | link | status |
+| --- | --- | --- | --- |
+| 61 | Remove unused variables from Layout component | [#93](https://github.com/jenkins-infra/gatsby-plugin-jenkins-layout/pull/93) | approved |
+
+
+
 
