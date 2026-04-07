@@ -54,7 +54,7 @@ This repository shows my contributions to jenkins
 |47| feat(ci): added blc checker | [#378](https://github.com/jenkins-infra/stories/pull/378) | requested review |
 |48| feat: added read-time-estimation using read-time jio component | [#388](https://github.com/jenkins-infra/stories/pull/388) | merged |
 |49| chore: setup husky and lint-staged for pre-commit linting | [#389](https://github.com/jenkins-infra/stories/pull/389) | requested review |
-|50| fix: fix page text contrast | [#392](https://github.com/jenkins-infra/stories/pull/392) | request review | 
+|50| fix: fix page text contrast | [#392](https://github.com/jenkins-infra/stories/pull/392) | requested review | 
 
 
 ### In Jenkins.io
